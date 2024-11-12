@@ -1,24 +1,24 @@
 ---
-protocol: "name of the protocol appended by the version if multiple versions exist (use an '-' and no whitespace)"
-website: "https://..."
-x: "https://x.com/projecthandle"
-github: "https://github.com/projectgithub"
-defillama_slug: "the slug used by https://defillama.com"
-chain: "the name of the chain on which the protocol is deployed"
-stage: 0
-risks: ["x","x","x","x","x"]
-author: ["author-1", "author-2"]
-submission_date: "1970-01-01"
-publish_date: "1970-01-01"
+protocol: "Pendle-2.0"  
+website: "https://www.pendle.finance"  
+x: "https://twitter.com/pendlefinance"  
+github: "https://github.com/pendle-finance/pendle-v2-resources"  
+defillama_slug: "pendle"  
+chain: "Ethereum"  
+stage: 0  
+risks: ["protocol hacking", "volatility of tokens", "impermanent loss", "smart contract bugs", "market risk"]  
+author: ["Pendle Team"]  
+submission_date: "2024-Nov-12"
+publish_date: "2024-Nov-12"
 acknowledge_date: "1970-01-01"
 update_date: "1970-01-01"
 ---
 
 # Summary
-
-Add a summary of the protocols. What is it? What does it do? etc.
+Pendle is a decentralized finance (DeFi) protocol that enables users to tokenize and trade future yields on their assets. By separating the ownership of an asset from its yield, Pendle provides innovative strategies for yield management and optimization. Users can engage in yield tokenization, allowing them to leverage and hedge their returns while participating in liquidity mining.
 
 # Overview
+Pendle operates on the Ethereum blockchain, utilizing automated market maker (AMM) technology for its yield trading functionalities. The protocol allows users to wrap yield-bearing tokens into standardized yield tokens (SY), which can then be split into principal tokens (PT) and yield tokens (YT). This structure facilitates various yield strategies, including fixed yield and hedging against market fluctuations.
 
 ## Chain
 
