@@ -6,7 +6,7 @@ github: "https://github.com/pendle-finance/pendle-v2-resources"
 defillama_slug: "pendle"  
 chain: "Ethereum"  
 stage: 0  
-risks: ["protocol hacking", "volatility of tokens", "impermanent loss", "smart contract bugs", "market risk"]  
+risks: ["L", "L", "L", "L", "M"]  
 author: ["Pendle Team"]  
 submission_date: "2024-Nov-12"
 publish_date: "2024-Nov-12"
@@ -26,7 +26,6 @@ Pendle operates on the Ethereum blockchain, utilizing automated market maker (AM
 
 Pendle is deployed on Ethereum mainnet.
 
-> Chain score: L
 
 ## Upgradeability
 
